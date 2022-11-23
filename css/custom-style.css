@@ -1,0 +1,65 @@
+.skill-content
+{
+    margin: 20px 0;
+}
+
+.skill-content .skill-width
+{
+    width: 100%;
+    background-color: #333333;
+    height: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.skill-level
+{
+    height: 100%;
+    background-color: #bac964;
+}
+
+.html
+{
+    width: 40%;
+}
+
+.css
+{
+    width: 35%;
+}
+
+.bootstrap
+{
+    width: 30%;
+}
+
+.photoshop
+{
+    width: 75%;
+}
+
+.after-effect
+{
+    width: 70%;
+}
+
+.illustrator
+{
+    width: 80%;
+}
+
+.about-img
+{
+    display: flex;
+    justify-content: center;
+}
+
+.site-contact-details li > span
+{
+    color: #bac964;
+}
+
+#section-contact form label
+{
+    width: 100%;
+}
