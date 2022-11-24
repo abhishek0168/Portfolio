@@ -63,3 +63,9 @@
 {
     width: 100%;
 }
+
+.form-control:active, .form-control:focus
+{
+    
+    color: #fff !important;
+}
